@@ -42,4 +42,4 @@ async function makeCommits(n, batchSize = 1000) {
   console.log("All commits done!");
 }
 
-makeCommits(25135);
+makeCommits(251325);
